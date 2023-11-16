@@ -1,7 +1,7 @@
 ---
 title: "Data Products Project: MTCar Data"
-author: "Author: Isaac G. Veras"
-date: "October 05, 2023"
+author: "Author: Lahiru Weerasingha"
+date: "2023.11.16"
 output: ioslides_presentation
 ---
 
